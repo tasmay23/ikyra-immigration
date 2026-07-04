@@ -1,1 +1,1 @@
-console.log("GlobalVisa website loaded!");
+console.log("Welcome to Ikyra Immigration!");

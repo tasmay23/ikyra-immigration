@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>The Symphony of You | Happy Birthday</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Ultra-performance canvas particle library -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+
+    <!-- Cinematic Split-Panel Theater Preloader -->
+    <div id="theater-curtain">
+        <div class="curtain-half left-wing"></div>
+        <div class="curtain-half right-wing"></div>
+        <div class="preloader-center-stage">
+            <div class="monogram-header">M & L</div>
+            <div id="countdown-matrix">3</div>
+            <div class="gold-accent-bar"></div>
+            <p class="brand-subtext">EXPERIENCE INITIALIZING</p>
+        </div>
+    </div>
+
+    <!-- Core Luxury Presentation Layer -->
+    <div id="luxury-app-viewport">
+        <header class="editorial-header">
+            <h1 class="royal-headline">HAPPY BIRTHDAY, <br><span class="gold-gradient">MY WHOLE UNIVERSE</span></h1>
+            <div class="dynamic-progress-tracker">
+                <span class="step-dot active"></span>
+                <span class="step-dot"></span>
+                <span class="step-dot"></span>
+                <span class="step-dot"></span>
+            </div>
+        </header>
+
+        <main class="cinematic-deck">
+            <!-- Chapter I: The Proposal -->
+            <section class="exhibition-slide active" data-index="0">
+                <div class="premium-polaroid float-s1">
+                    <img src="https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=600&q=80" alt="The Promise" class="display-graphic">
+                    <div class="polaroid-scribble">Where our shared reality began... 💍</div>
+                </div>
+                <button class="prime-nav-btn slide-next-trigger">Advance Chapter →</button>
+            </section>
+
+            <!-- Chapter II: The Hug -->
+            <section class="exhibition-slide" data-index="1">
+                <div class="premium-polaroid float-s2">
+                    <img src="https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=600&q=80" alt="The Sanctuary" class="display-graphic">
+                    <div class="polaroid-scribble">Your arms = My absolute safe haven 🔒</div>
+                </div>
+                <button class="prime-nav-btn slide-next-trigger">Advance Chapter →</button>
+            </section>
+
+            <!-- Chapter III: The Kiss -->
+            <section class="exhibition-slide" data-index="2">
+                <div class="premium-polaroid float-s3">
+                    <div class="ambient-heart-sparks">
+                        <span class="sparkle-heart">✨</span>
+                        <span class="sparkle-heart">💖</span>
+                        <span class="sparkle-heart">💋</span>
+                    </div>
+                    <img src="https://images.unsplash.com/photo-1537130508986-20f4ea879b9e?auto=format&fit=crop&w=600&q=80" alt="The Symphony" class="display-graphic">
+                    <div class="polaroid-scribble">Every sweet kiss makes time stand still... ⏱️</div>
+                </div>
+                <button class="prime-nav-btn slide-next-trigger">Advance Chapter →</button>
+            </section>
+
+            <!-- Chapter IV: The Altar Celebration -->
+            <section class="exhibition-slide" data-index="3" id="climax-altar">
+                <div class="glass-altar-card">
+                    <div class="glowing-cake-avatar" id="cake-node">🎂</div>
+                    <h2 id="altar-title">Ignite the Manifestation</h2>
+                    <p id="altar-body">You deserve a lifetime as radiant as your soul. Tap the button below to blow out the virtual flame and unlock the celebration.</p>
+                    <div class="button-vault">
+                        <button class="royal-action-btn" id="ignition-core-trigger">EXTINGUISH & WISH 🕯️</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+                          </html>
+                            
